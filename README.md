@@ -18,7 +18,7 @@ The CSV file that’s provided for this Homework contains the price change data 
 
 ---
 ## Note!
-**Due to GitHub rendering issue, please see crypto_investments.html instead of jupyter notebook.** 
+Due to GitHub rendering issue, please put the link: https://github.com/keitoronto/Module_7_Challenge/blob/main/visual_data_analysis.ipynb into [nbviewer](https://nbviewer.org/), which will show all the plots 
 
 ---
 
